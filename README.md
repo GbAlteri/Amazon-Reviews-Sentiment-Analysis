@@ -1,4 +1,4 @@
-# Project Title: Using Linear Regression to Predict Sentiment Score of Amazon Review Text
+# Using Linear Regression to Predict Sentiment Score of Amazon Review Text
 
 ## Fall 2023
 
